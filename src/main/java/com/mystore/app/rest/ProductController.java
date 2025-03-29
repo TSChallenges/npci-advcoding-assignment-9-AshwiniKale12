@@ -1,4 +1,4 @@
-package com.mystore.app.rest;
+ package com.mystore.app.rest;
 
 import com.mystore.app.entity.Product;
 import com.mystore.app.service.ProductService;
